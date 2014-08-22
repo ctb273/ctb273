@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $helvetica;
   color: $darkerGray;
   font-weight: 600;
   
@@ -71,11 +71,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $black;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $white;
   }
 }
 
@@ -191,10 +191,11 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue; 
+  font-family: $helvetica; 
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+  text-transform: uppercase;
 }
 
 .site-description {
@@ -210,7 +211,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue; 
+  font-family: $helvetica; 
   font-size: 18px;
   
   @include mobile {
@@ -229,7 +230,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $black;
     }
   }
 }
@@ -270,9 +271,9 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  border-top: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+  background-color: $white;
 }
 
 footer {
