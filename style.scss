@@ -204,6 +204,8 @@ img {
   
   @include mobile {
   	text-align: center;
+  	font-weight: 450;
+  	font-size: 26;
   }
 }
 
@@ -217,7 +219,7 @@ img {
   @include mobile {
     margin: 3px 0;
     text-transform: none;
-    font-size: 14px;
+    font-size: 15px;
   }
 }
 
