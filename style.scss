@@ -189,10 +189,10 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $black;
   cursor: pointer;
   font-family: $helvetica; 
-  font-weight: 300;
+  font-weight: 500;
   font-size: 28px;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -200,7 +200,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $darkgray;
   font-size: 16px;
   
   @include mobile {
