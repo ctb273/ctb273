@@ -194,13 +194,13 @@ img {
   font-family: $helvetica; 
   font-weight: 500;
   font-size: 24px;
-  letter-spacing: 1px;
+  letter-spacing: 1.25px;
   text-transform: uppercase;
 }
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $darkgray;
   font-size: 16px;
   
   @include mobile {
@@ -213,6 +213,7 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helvetica; 
   font-size: 18px;
+  text-transform: uppercase;
   
   @include mobile {
     float: none;
@@ -223,7 +224,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $darkgray;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
