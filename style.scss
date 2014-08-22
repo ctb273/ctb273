@@ -213,7 +213,6 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helvetica; 
   font-size: 18px;
-  text-transform: uppercase;
   
   @include mobile {
     float: none;
@@ -228,7 +227,6 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
-    text-transform: uppercase;
 
     @include mobile {
       margin: 0 10px;
