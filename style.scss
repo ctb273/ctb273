@@ -71,11 +71,12 @@ p {
 }
 
 a {
-  color: $lightGray;
+  color: $darkGray;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $lightGray;
+    color: $white;
+    background-color: $black;
   }
 }
 
@@ -120,11 +121,11 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: $lightGray;
+  background: $white;
 }
 ::selection {
   color: $black;
-  background: $lightGray;
+  background: $white;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -230,7 +231,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $lightGray;
+      color: $darkGray;
     }
   }
 }
@@ -241,7 +242,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $black;
 }
 
 .posts > .post:last-child {
