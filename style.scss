@@ -201,6 +201,10 @@ img {
   letter-spacing: 1.6px;
   text-transform: uppercase;
   text-align: left;
+  
+  @include mobile {
+  	text-align: center;
+  }
 }
 
 .site-description {
