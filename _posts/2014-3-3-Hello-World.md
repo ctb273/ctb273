@@ -6,3 +6,4 @@ title: The Education of Graphic Designers
 The balance between artistic and rational elements in the practice of graphic design poses an interesting challenge to design educators, a challenge that calls for the development of visual sophistication and intuitive abilities to express concepts visually, along with a rational capacity for processes of analysis and synthesis.  In addition, graphic designers need skills to listen and interpret the needs and concepts of people in other fields and enough flexibility of mind and visual resources to produce efficient communications.
 No school could attempt to deal with all of these requirements in every area of professional practice."
  - Graphic Design: Fine Art or Social Science, Jorge Frascara 
+
