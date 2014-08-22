@@ -3,5 +3,5 @@ layout: page
 title: About
 ---
 
-New York, NY
+New York, NY<br>
 Artist & Designer
