@@ -3,12 +3,9 @@ layout: page
 title: About
 ---
 
-Some information about you!
+New York based visual artist and user experience / user interface designer
 
-### More Information
+### Contact
 
-A place to include any other types of information that you'd like to include about yourself. 
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[info@caleighbirrell.com](mailto:info@caleighbirrell.com)
+[info.thompsongraphics@gmail.com](mailto:info.thompsongraphics@gmail.com)
