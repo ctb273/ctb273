@@ -75,10 +75,12 @@ p {
 a {
   color: $darkGray;
   text-decoration: none;
+  padding: 10px 10px;
 	cursor: pointer;
   &:hover, &:active {
     color: $white;
     background-color: $black;
+    padding: 10px 10px;
   }
 }
 
