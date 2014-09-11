@@ -7,7 +7,7 @@ But the digital display is not, in fact, our medium. The display, the keyboard, 
 So today, perhaps Don Norman’s insight in Emotional Design is needed in reverse. Beauty is wasted when our products don’t address real user needs in a usable manner. Again, perception is subjective: The product gets uglier if it fails to meet user needs or becomes confusing. It’s like falling in love at first sight, then falling back out after a brief conversation. Your crush looks less attractive now; you can’t even recall why you were so captivated in the first place.
 Great design is a synthesis of art and science, of aesthetics, usability and a deep understanding of user needs and behaviors. To succeed, we need a balance. Beauty that isn’t part of holistic, effective product design will be wasted."
 
--  Dave Feldmen
+ - Dave Feldmen
 
 [Taking the UX Out of Design: Think Your App is Beautiful?  Not Without User Experience Design](http://www.smashingmagazine.com/2014/09/01/think-your-app-is-beautiful-not-without-user-experience-design/), featured on [Smashing Magazine](http://smashingmagazine.com)
 
