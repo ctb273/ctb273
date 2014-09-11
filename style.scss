@@ -219,6 +219,12 @@ img {
   text-transform: uppercase;
   letter-spacing: 1.38px;
   
+    &:hover, &:active {
+    color: $white;
+    background-color: $white;
+  	
+  }
+  
   @include mobile {
     margin: 3px 0;
     text-transform: none;
