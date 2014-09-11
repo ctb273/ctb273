@@ -204,6 +204,17 @@ img {
   text-transform: uppercase;
   text-align: left;
   
+ .site-name a {
+  padding: none;
+	cursor: pointer;
+  &:hover, &:active {
+    color: $white;
+    background-color: $black;
+    padding: none;
+  }
+}
+
+  
   @include mobile {
   	text-align: center;
   	font-weight: 410;
