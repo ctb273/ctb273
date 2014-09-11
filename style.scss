@@ -203,15 +203,6 @@ img {
   letter-spacing: 1.65px;
   text-transform: uppercase;
   text-align: left;
-  
- .site-name a {
-  padding: none;
-	cursor: pointer;
-  &:hover, &:active {
-    color: $white;
-    background-color: $black;
-    padding: none;
-  }
 }
 
   
