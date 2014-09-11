@@ -118,8 +118,8 @@ img {
   
     &:hover, &:active {
     color: $white;
-    background-color: $black;
-    padding: 10px 10px;
+    background-color: $white;
+    padding: none;
   }
 }
 
