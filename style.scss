@@ -203,6 +203,10 @@ img {
   letter-spacing: 1.65px;
   text-transform: uppercase;
   text-align: left;
+  
+    &:hover, &:active {
+    color: $white;
+    background-color: $white;
 
   
   @include mobile {
