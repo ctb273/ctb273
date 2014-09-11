@@ -314,7 +314,7 @@ footer {
   padding: 20px 0;
   text-align: center;
   
-    &:hover, &:active {
+    .img &:hover, &:active {
     color: $white;
     background-color: $white;
     padding: none;
