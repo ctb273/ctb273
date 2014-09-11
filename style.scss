@@ -115,6 +115,12 @@ strong, b {
 
 img {
   max-width: 100%;
+  
+    &:hover, &:active {
+    color: $white;
+    background-color: $black;
+    padding: 10px 10px;
+  }
 }
 
 .date {
