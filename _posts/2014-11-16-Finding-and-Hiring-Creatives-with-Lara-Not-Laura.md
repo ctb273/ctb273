@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Identity Crisis: Finding and Hiring Creatives with Lara not Laura
+title: Identity Crisis/ Finding and Hiring Creatives with Lara not Laura
 ---
 
 I hung out with designer/developer I admire,[Lara Schenck](http://notlaura.com), who works for herself, largely in education.  She teaches a course at Pratt Institute on UI Prototyping and Code while working indepdently as an educator and developer.  
