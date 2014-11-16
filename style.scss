@@ -73,7 +73,7 @@ p {
 }
 
 a {
-  color: $Gray;
+  color: $darkGray;
   text-decoration: none;
   padding: 10px 10px;
 	cursor: pointer;
@@ -118,6 +118,7 @@ img {
   
     &:hover, &:active {
     color: $white;
+    background-color: $white;
     padding: none;
   }
 }
@@ -244,7 +245,6 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helvetica; 
   font-size: 18px;
-  background-color: $white;
   
   @include mobile {
     float: none;
@@ -291,7 +291,6 @@ nav {
     font-size: 22px;
     font-style: italic;
   }
- }
 
   .comments {
     margin-top: 10px;
