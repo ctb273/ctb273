@@ -1,0 +1,17 @@
+---
+layout: post
+title: Jonathan Ive on Design Education
+---
+"We may seem a little testy when things we have been working on for eight years are copied in six months – but it wasn't inevitable that it was going to work."
+
+"It's not copying, it's theft. They stole our time, time we could have had with our families. I actually feel quite strongly about it. It's funny – I was talking to somebody and they said do you think when somebody copies what you do it's flattering? No."
+
+Ive said that to create something new, designers had to "reject reason" and accept when a project wasn't working and stop working on it, even if significant money has already been invested.
+
+Most designers are too quick to give in to pressures from marketing departments and corporations, but Apple's products have a more uniform aesthetic because there is no reason to change them, he added.
+
+"To do something new and truly innovative, does require you reject reason. And the problem is when you do that, the behaviours, what that looks like, can make you look a bit odd."
+
+  - Jonathan Ive
+  
+Continue reading [Design Education is "Tragic", says Jonathan Ive](http://www.dezeen.com/2014/11/13/design-education-tragic-says-jonathan-ive-apple/), featured on [Dezeen Magazine](http://www.dezeen.com)
